@@ -1,0 +1,25 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "employee tracker hwrk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VithushanE/employeeTracker.git"
+  },
+  "author": "vithushan esan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VithushanE/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/VithushanE/employeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  }
+}
